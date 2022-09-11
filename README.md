@@ -20,18 +20,9 @@ Model: Monte Carlo, polynomial chaos expansion, Gaussian process
 ### Demo
 
 <div align=center>
-<img src="./plot/result-1.jpg" alt="V_731a" width="300">
-
-[V_731a](https://github.com/ktye-UF/GSA_DistributionSystem/blob/main/plot/result-1.jpg)
-
-<img src="./plot/result-2.jpg" alt="Editor" width="300">
-
-[V_731b](https://github.com/ktye-UF/GSA_DistributionSystem/blob/main/plot/result-2.jpg)
-
-<img src="./plot/result-3.jpg" alt="Editor" width="300">
-
-[V_731c](https://github.com/ktye-UF/GSA_DistributionSystem/blob/main/plot/result-3.jpg)
-  
+<img src="./plot/V731a.jpg" alt="V731a" width="300">
+<img src="./plot/V731b.jpg" alt="V731b" width="300">
+<img src="./plot/V731c.jpg" alt="V731c" width="300">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
