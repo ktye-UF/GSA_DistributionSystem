@@ -19,9 +19,9 @@ Model: Monte Carlo, polynomial chaos expansion, Gaussian process
 
 
 <div align=center>
-<img src="./plot/result-1.jpg" alt="V_731a" width="300">
-<img src="./plot/result-2.jpg" alt="Editor" width="300">
-<img src="./plot/result-3.jpg" alt="Editor" width="300">
+<img src="./plot/result-1.jpg" alt="V_731a" width="250">
+<img src="./plot/result-2.jpg" alt="Editor" width="250">
+<img src="./plot/result-3.jpg" alt="Editor" width="250">
 
 <center>
   
