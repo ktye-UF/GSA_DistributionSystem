@@ -17,25 +17,22 @@ X: loads at nodes 731b,733c,735c & PVs at nodes 731b, 733a, 735c
 Y: total Sobol index  
 Model: Monte Carlo, polynomial chaos expansion, Gaussian process
 
+### Demo
 
 <div align=center>
-<img src="./plot/result-1.jpg" alt="V_731a" width="250">
-<img src="./plot/result-2.jpg" alt="Editor" width="250">
-<img src="./plot/result-3.jpg" alt="Editor" width="250">
+<img src="./plot/result-1.jpg" alt="V_731a" width="300">
 
-<center>
-  
-[V_731a](https://github.com/ktye-UF/GSA_DistributionSystem/blob/main/plot/result-3.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;
-[V_731b](https://github.com/ktye-UF/GSA_DistributionSystem/blob/main/plot/result-3.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;
+[V_731a](https://github.com/ktye-UF/GSA_DistributionSystem/blob/main/plot/result-1.jpg)
+
+<img src="./plot/result-2.jpg" alt="Editor" width="300">
+
+[V_731b](https://github.com/ktye-UF/GSA_DistributionSystem/blob/main/plot/result-2.jpg)
+
+<img src="./plot/result-3.jpg" alt="Editor" width="300">
+
 [V_731c](https://github.com/ktye-UF/GSA_DistributionSystem/blob/main/plot/result-3.jpg)
-
-<center>
   
 </div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
