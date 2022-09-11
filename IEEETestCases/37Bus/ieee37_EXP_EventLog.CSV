@@ -1,0 +1,5 @@
+Hour=1, Sec=0, ControlIter=1, Element=Regulator.reg1c, Action= CHANGED 9 TAPS TO 1.05625.
+Hour=1, Sec=0, ControlIter=1, Element=Regulator.reg1a, Action= CHANGED 13 TAPS TO 1.08125.
+Hour=1, Sec=0, ControlIter=2, Element=Regulator.reg1c, Action= CHANGED 4 TAPS TO 1.08125.
+Hour=1, Sec=0, ControlIter=2, Element=Regulator.reg1a, Action= CHANGED 6 TAPS TO 1.1.
+Hour=1, Sec=0, ControlIter=3, Element=Regulator.reg1c, Action= CHANGED 1 TAPS TO 1.0875.
