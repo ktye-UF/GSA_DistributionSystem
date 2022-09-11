@@ -1,4 +1,4 @@
-# Data-Driven Global Sensitivity Analysis for Distribution System With PVs
+# Global Sensitivity Analysis for Distribution System With PVs
 
 **`Under Development`**
 
