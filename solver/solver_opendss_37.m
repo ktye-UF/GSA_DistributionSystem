@@ -1,8 +1,8 @@
 function varargout = solver_opendss_37(X)
 % function [Y, is_converge] = solver_opendss_37(X)
 % % solver using opendss
-% % X: N¡Ám, N samples, m features
-% % Y: N¡Ák, N samples, k outputs
+% % X: NÂ¡Ãm, N samples, m features
+% % Y: NÂ¡Ãk, N samples, k outputs
 %% determine system & load_data & load,PV location & output --> now saved in <initial_input_37>
 % % choose system and load data
 % path_main = [pwd, '\IEEETestCases\37Bus\ieee37.dss'];
@@ -11,7 +11,6 @@ function varargout = solver_opendss_37(X)
 %% preprocess
 % % load variables
 load([pwd, '\save\Input_setting'])
-% ! do not know why it needs to be assigned in this way
 [path, system_info, load_setting, pv_setting, output_choose] = v2struct(Input_setting);
 v2struct(path); v2struct(system_info); v2struct(output_choose);
 v2struct(load_setting); v2struct(pv_setting);
