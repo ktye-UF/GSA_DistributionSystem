@@ -8,7 +8,7 @@ scenario = 10;
 initial_input_setting_v2(scenario)  % more input
 
 %% generate input
-% X: N¡Ám
+% X: NÂ¡Ãm
 myInput = initial_input_37();
 
 %% generate data
@@ -122,7 +122,6 @@ n_sa_tmp = 1e4;
 n_input = length(myInput.Marginals);
 model_sa = [{myModel}, model];
 th = 0;
-% sum to 1 (not correct)
 sa_select = 1:n_input*2;
 for i=1:length(model_sa)
     result_tmp = result{i};
