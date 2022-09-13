@@ -9,20 +9,17 @@ sheet_data = 'load_original';
 % % % desired output
 % % bus_name of desired output
 % % ! IMPORTANT: output will follow natural number order, NOT this array
-bus_name_output = [731; 733; 735]; % n°¡1 number. must be n°¡1 (to apply num2str)clear. ex. [701a, 701b, 701c, 702a, 702b, 702c,...]
+bus_name_output = [731; 733; 735]; % n¬°√Å1 number. must be n¬°√Å1 (to apply num2str)clear. ex. [701a, 701b, 701c, 702a, 702b, 702c,...]
 bus_name_output = [731; 733; 735];
 % bus_name_output = [732; 734; 736]; 
 % % line_name(line power flow) of desired output     
 % % ! IMPORTANT: output will follow natural number order, NOT this cell
-line_name_output = {}; % n°¡1 cell char 
+line_name_output = {}; % n¬°√Å1 cell char 
 % line_name_output = {'l14'; 'l15'; 'l18'; 'l19'; 'l28'; 'l30'};
 %% determine input parameters
 switch scenerio
     case 1
         % % % determine bus and node of input
-        % % ! IMPORTANT: follow natural number order? or this array?
-        % % if memory serves, it follows this array
-        % % before final check, try to keep the same order
         input_load_bus =       [731; 732; 733; 734; 735; 736; 737; 738; 740; 741];
         input_load_node = char({'b'; 'c'; 'a'; 'c'; 'c'; 'b'; 'a'; 'a'; 'c'; 'c'});
         input_pv_bus =       [732; 735; 736];
