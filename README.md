@@ -21,7 +21,7 @@ Code for the paper: [A Data-Driven Global Sensitivity Analysis Framework for Thr
 ## Case IEEE-37
 System: IEEE-37 bus with PVs  
 X: loads at nodes 731b,733a,735c & PVs at nodes 731b, 733a, 735c  
-Y: total Sobol index  
+Y: total Sobol indices  
 Model: Monte Carlo, polynomial chaos expansion, Gaussian process
 
 
