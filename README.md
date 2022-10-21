@@ -18,14 +18,14 @@ Code for the paper: [A Data-Driven Global Sensitivity Analysis Framework for Thr
 [1] Durrande, N., Ginsbourger, D., Roustant, O. and Carraro, L., 2013. ANOVA kernels and RKHS of zero mean functions for model-based sensitivity analysis. Journal of Multivariate Analysis, 115, pp.57-67.
 
 
-## Case IEEE-37
+## Demo: Case IEEE-37
 System: IEEE-37 bus with PVs  
 X: loads at nodes 731b,733a,735c & PVs at nodes 731b, 733a, 735c  
 Y: total Sobol indices  
 Model: Monte Carlo, polynomial chaos expansion, Gaussian process regression (Kriging)
 
 
-### Demo
+### Results
 
 <div align=center>
 <img src="./plot/V731a.jpg" alt="V731a" width="250">
