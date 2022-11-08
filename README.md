@@ -7,7 +7,8 @@ Code for the paper: [A Data-Driven Global Sensitivity Analysis Framework for Thr
 
 ## Requriements
 
-[OpenDSS](https://www.epri.com/pages/sa/opendss#:~:text=What%20is%20OpenDSS%3F,grid%20integration%20and%20grid%20modernization.)(Matlab-OpenDSS COM interface)  
+[OpenDSS](https://www.epri.com/pages/sa/opendss#:~:text=What%20is%20OpenDSS%3F,grid%20integration%20and%20grid%20modernization.)
+(including Matlab-OpenDSS COM interface)  
 
 [UQLab](https://www.uqlab.com/)
 
